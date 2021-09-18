@@ -1,0 +1,9 @@
+name: BestMsg
+version: '${project.version}'
+main: bestmsg.bestmsg.Main
+authors: [ _mati90_ ]
+commands:
+  msg:
+  r:
+  ignore:
+  unlock:
